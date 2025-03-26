@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/jiraphonieotrakoon/Documents/Arduino/Project_SmartBarrage",
+      "program": "/Users/jiraphonieotrakoon/Documents/Arduino/Project_SmartBarrage/build/Debug/outDebug"
+    }
+  ]
+}
